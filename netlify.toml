@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://www.instagram.com/hoji_label/"
+  status = 302
